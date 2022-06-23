@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo (aka Guga<br /> I've been working as a Frontend developer for almost 4 years, using technologies like ReactJS, NextJS, VueJS.</p>
+<p align="left">My name is Gustavo (aka Guga)<br /> I've been working as a Frontend developer for almost 4 years, using technologies like ReactJS, NextJS, VueJS.</p>
 
 ###
 
