@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Oct/2018<br><br>📚 I'm currently learning about testing javascript apps<br><br>🎯 Goals: to learn more about software testing and architecture concepts</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
